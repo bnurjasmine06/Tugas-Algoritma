@@ -35,7 +35,7 @@
    
 3. **Definiteness:** Setiap Langkah dalam algoritma memiliki instruksi yang jelas dan kondisi validasi format dan pencocokan bernilai pasti (bener/salah) tanpa ada makna ganda
   
-4. **Finiteness:** Memiliki titik akhir yang jelas dengan dua kemungkinan yang pertama setelah sitem berhasil membuat akun, menyimpan data akun dan menampilkan notifikasi “Pembuatan akun Anda telah berhasil. Yang kedua proses dapat berhenti apabila data atau proses yang dilakukan tidak memenuhi dan proses dihentikan oleh pengguna
+4. **Finiteness:** Memiliki titik akhir yang jelas dengan dua kemungkinan: yang pertama setelah sitem berhasil membuat akun, menyimpan data akun dan menampilkan notifikasi “Pembuatan akun Anda telah berhasil. Yang kedua proses dapat berhenti apabila data atau proses yang dilakukan tidak memenuhi dan proses dihentikan oleh pengguna
    
 5. **Effectiveness:** Langkahnya sangat berurutan mulai dari pengumpulan data hingga verifikasi dua langkah
 
