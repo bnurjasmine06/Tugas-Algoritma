@@ -40,7 +40,7 @@
 5. **Effectiveness:** Langkahnya sangat berurutan mulai dari pengumpulan data hingga verifikasi dua langkah
 
 ### BAGIAN B: ANALISIS PEMILIHAN STRUKTUR DATA
-1. **Skenario 1 (Fitur Fitur Undo / Redo):**  
+1. **Skenario 1 (Fitur Undo / Redo):**  
    Sebuah aplikasi pengolah kata (*Text Editor*) membutuhkan fitur untuk membatalkan ketikan terakhir pengguna (*Undo*) dan mengembalikannya lagi (*Redo*).  
    * **Struktur Data Terpilih:** Stack   
    * **Alasan:** Stack cocok digunakan untuk fitur undo dan redo karna memiliki prinsip Last In First Out, yang artinya tindakan yang dilakukan terakhir akan menjadi tindakan yang dikeluarkan pertama. Contohnya saat lagi mengedit di canva langkah terakhir itu memisahkan elemen-elemen yang sebelumnya jadi satu, jadi ketika memencet tombol undo, tindakan terakhir tersebut yang memisakan elemen-elemen dibatalkan jadi, elemen-elemen yang tadinya kepisah jadi satu lagi  
