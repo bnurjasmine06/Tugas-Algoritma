@@ -32,7 +32,7 @@
 **Karakteristik Algoritma:**    
 1. **Input:** Nomer rekening, nomer handphone yang terdaftar, data identitas yang dimasukkan, username, password, kode OTP, dan PIN mobile banking
    
-2. **Output:** Akun mobile banking berhasil dibuat, data akun tersimpan denga naman di sistem bank, dan sistem menampilkan notifikasi “Pembuatan akun Anda telah berhasil. Jika terjadi kesalahan dalam proses sistem akan menampilkan pesan kesalahan dan meminta pengguna untuk melakukan perbaikan atau verifikasi kembali
+2. **Output:** Akun mobile banking berhasil dibuat, data akun tersimpan dengan aman di sistem bank, dan sistem menampilkan notifikasi “Pembuatan akun Anda telah berhasil. Jika terjadi kesalahan dalam proses sistem akan menampilkan pesan kesalahan dan meminta pengguna untuk melakukan perbaikan atau verifikasi kembali
    
 3. **Definiteness:** Setiap Langkah dalam algoritma memiliki instruksi yang jelas dan kondisi validasi format dan pencocokan bernilai pasti (bener/salah) tanpa ada makna ganda
   
