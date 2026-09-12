@@ -48,7 +48,7 @@
 2. **Skenario 2 (Peta Navigasi Rute Perjalanan):**  
    Sebuah aplikasi GPS membutuhkan cara untuk memodelkan lokasi-lokasi kota beserta jalan penghubungnya guna mencari rute tercepat.  
    * **Struktur Data Terpilih:** Graph  
-   * **Alasan:** Graph cocok digunakan karena dalam pembahasan graph itu seperti peta navigasi yang bisa menggambarkan antara tempat satu dengan tempat yang lainnya. contoh pergi ke kampus menggunakan Google maps rumah dan kampus sebagai titik dan jalan yang menghubungkan sebagai penghubung. Dengan menggunakan graph orang akan tau rute mana yang paling cepat 
+   * **Alasan:** Graph cocok digunakan karena dalam pembahasan graph itu seperti peta navigasi yang bisa menggambarkan antara tempat satu dengan tempat yang lainnya. contoh pergi ke kampus menggunakan Google maps rumah dan kampus sebagai titik dan jalan yang menghubungkan sebagai penghubung. Dengan menggunakan graph sistem akan tau rute mana yang paling cepat dan memberitahukan kepada penggunanya 
 
 3. **Skenario 3 (Sistem Login Pengguna Berbasis Username):**  
    Sistem butuh mencari data akun dari jutaan *user* secara instan berdasarkan *Username* saat proses *login*.  
