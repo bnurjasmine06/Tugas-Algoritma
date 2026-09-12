@@ -43,15 +43,15 @@
 1. **Skenario 1 (Fitur Fitur Undo / Redo):**  
    Sebuah aplikasi pengolah kata (*Text Editor*) membutuhkan fitur untuk membatalkan ketikan terakhir pengguna (*Undo*) dan mengembalikannya lagi (*Redo*).  
    * **Struktur Data Terpilih:** Stack   
-   * **Alasan:** Stack cocok digunakan untuk fitur undo dan redo karna memiliki prinsip Last In First Out, yang artinya sesuatu yang dilakukan terakhir akan menjadi sesuatu yang dikeluarkan pertama. Contohnya kita lagi edit di canva langkah terakhir itu memisahkan elemen-elemen yang harusnya jadi satu, jadi ketika kita memencet tombol undo yang harusnya elemennya kepisah jadi balik lagi jadi satu karna membatalkan tindakan terakhir yaitu memisahkan elemen-elemen
+   * **Alasan:** Stack cocok digunakan untuk fitur undo dan redo karna memiliki prinsip Last In First Out, yang artinya tindakan yang dilakukan terakhir akan menjadi tindakan yang dikeluarkan pertama. Contohnya saat lagi mengedit di canva langkah terakhir itu memisahkan elemen-elemen yang sebelumnya jadi satu, jadi ketika memencet tombol undo, tindakan terakhir tersebut yang memisakan elemen-elemen dibatalkan jadi, elemen-elemen yang tadinya kepisah jadi satu lagi  
 
 2. **Skenario 2 (Peta Navigasi Rute Perjalanan):**  
    Sebuah aplikasi GPS membutuhkan cara untuk memodelkan lokasi-lokasi kota beserta jalan penghubungnya guna mencari rute tercepat.  
    * **Struktur Data Terpilih:** Graph  
-   * **Alasan:** 
+   * **Alasan:** Graph cocok digunakan karena dalam pembahasan graph itu seperti peta navigasi yang bisa menggambarkan antara tempat satu dengan tempat yang lainnya. contoh pergi ke kampus menggunakan Google maps rumah dan kampus sebagai titik dan jalan yang menghubungkan sebagai penghubung. Dengan menggunakan graph orang akan tau rute mana yang paling cepat 
 
 3. **Skenario 3 (Sistem Login Pengguna Berbasis Username):**  
    Sistem butuh mencari data akun dari jutaan *user* secara instan berdasarkan *Username* saat proses *login*.  
-   * **Struktur Data Terpilih:** ...  
-   * **Alasan:** ...
+   * **Struktur Data Terpilih:** Hash Table  
+   * **Alasan:** Hash Table cocok digunakan untuk sistem login karena dapat mencari data pengguna menggunakan username dengan cepat dan mungkin akurat. contoh mau login mobile banking trus masukin username dan password yang sudah dibuat. Sistem akan mencari username tersebut untuk menemukan data akun dan mencocokkan password yang dimasukkan. jadi sistem bisa mecari dengan cepat tanpa harus mengecek satu-satu
 
