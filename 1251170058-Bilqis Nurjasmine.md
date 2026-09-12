@@ -8,4 +8,30 @@ BAGIAN A RANCANGAN ALGORITMA DENGAN KARAKTERISTIK LENGKAP
 
 ### CASE KELAS B (Pendaftaran & Otentikasi Pengguna Baru)
 **Langkah-langkah (Instruksi Terstruktur):**
+1.	Mulai
+2.	Pengguna membuka aplikasi mobile banking dan menekan menu “Daftar” atau “Buat Akun”.
+3.	Pengguna memasukkan data yang diperlukan seperti, nomer rekening, nomer handphone yang sudah terdaftar di bank, dan identitas diri sesuai ketentuan yang berlaku di bank
+4.	Sistem memeriksa kecocokan data yang dimasukkan dengan data yang sudah terdaftar pada sistem bank
+5.	Jika data tidak cocok sistem memunculkan pesan kesalahan dan meminta pengguna mengecek kembali serta memasukkan kembali data
+6.	Jika data sudah sesuai, sistem meminta pengguna untuk membuat username dan password untuk akun mobile banking.
+7.	Sistem memverifikasi username dan kekuatan password sesuai dengan ketentuan keamanan yang berlaku.
+8.	Jika password tidak memenuhi ketentuan tersebut, sistem akan memunculkan pesan kesalahan dan meminta pengguna membuat ulang password
+9.	Jika data akun sesuai, sistem mengirimkan pesan berupa  kode OTP ke nomer handphone yang terdaftar.
+10.	Pengguna mengetik kode OTP yang diterima
+11.	Sistem memeriksa kode OTP yang dimasukkan
+12.	Jika kode OTP salah atau kadaluwarsa, sistem menampilkan pesan kesalahan dan meminta pengguna melakukan verifikasi kembali.
+13.	Jika kode OTP yang dimasukkan benar, sistem akan meminta pengguna untuk membuat PIN mobile banking.
+14.	Pengguna memasukan PIN dan mengkonfirmasinya.
+15.	Sistem memeriksa kesesuaian PIN yang dimasukkan
+16.	Jika PIN sudah sesuai, seluruh data dan verifikasi telah berhasil, sistem akan memulai membuat akun mobile banking pengguna
+17.	Sistem menyimpan data akun dan informasi autentifikasi secara aman ke dalam sistem bank
+18.	Sistem menampilkan notifikasi “Pembuatan akun Anda telah berhasil”.
+19.	Selesai
+
+**Karakteristik Algoritma:**    
+1. **Input:**
+2. **Output:**
+3. **Definiteness:**
+4. **Finiteness:**
+5. **Effectiveness:**     
 
