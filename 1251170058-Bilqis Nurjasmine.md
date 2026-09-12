@@ -53,5 +53,5 @@
 3. **Skenario 3 (Sistem Login Pengguna Berbasis Username):**  
    Sistem butuh mencari data akun dari jutaan *user* secara instan berdasarkan *Username* saat proses *login*.  
    * **Struktur Data Terpilih:** Hash Table  
-   * **Alasan:** Hash Table cocok digunakan untuk sistem login karena dapat mencari data pengguna menggunakan username dengan cepat dan mungkin akurat. contoh mau login mobile banking trus masukin username dan password yang sudah dibuat. Sistem akan mencari username tersebut untuk menemukan data akun dan mencocokkan password yang dimasukkan. jadi sistem bisa mecari dengan cepat tanpa harus mengecek satu-satu
+   * **Alasan:** Hash Table cocok digunakan untuk sistem login karena dapat mencari data pengguna menggunakan username dengan cepat. contoh mau login mobile banking trus masukin username dan password yang sudah dibuat. Sistem akan mencari username tersebut untuk menemukan data akun dan mencocokkan password yang dimasukkan. jadi sistem bisa mecari dengan cepat tanpa harus mengecek satu-satu
 
