@@ -4,10 +4,10 @@
 **Kelas:** 3 B 
 
 ---
-BAGIAN A RANCANGAN ALGORITMA DENGAN KARAKTERISTIK LENGKAP
+### BAGIAN A RANCANGAN ALGORITMA DENGAN KARAKTERISTIK LENGKAP
 
-### CASE KELAS B (Pendaftaran & Otentikasi Pengguna Baru)
-**Langkah-langkah (Instruksi Terstruktur):**
+#### CASE KELAS B (Pendaftaran & Otentikasi Pengguna Baru)
+> **Langkah-langkah (Instruksi Terstruktur):**
 1.	Mulai
 2.	Pengguna membuka aplikasi mobile banking dan menekan menu “Daftar” atau “Buat Akun”.
 3.	Pengguna memasukkan data yang diperlukan seperti, nomer rekening, nomer handphone yang sudah terdaftar di bank, dan identitas diri sesuai ketentuan yang berlaku di bank
@@ -37,5 +37,21 @@ BAGIAN A RANCANGAN ALGORITMA DENGAN KARAKTERISTIK LENGKAP
   
 4. **Finiteness:** Memiliki titik akhir yang jelas dengan dua kemungkinan yang pertama setelah sitem berhasil membuat akun, menyimpan data akun dan menampilkan notifikasi “Pembuatan akun Anda telah berhasil. Yang kedua proses dapat berhenti apabila data atau proses yang dilakukan tidak memenuhi dan proses dihentikan oleh pengguna
    
-5. **Effectiveness:** Langkahnya sangat berurutan mulai dari pengumpulan data hingga verifikasi dua langkah   
+5. **Effectiveness:** Langkahnya sangat berurutan mulai dari pengumpulan data hingga verifikasi dua langkah
+
+### BAGIAN B: ANALISIS PEMILIHAN STRUKTUR DATA
+1. **Skenario 1 (Fitur Fitur Undo / Redo):**  
+   Sebuah aplikasi pengolah kata (*Text Editor*) membutuhkan fitur untuk membatalkan ketikan terakhir pengguna (*Undo*) dan mengembalikannya lagi (*Redo*).  
+   * **Struktur Data Terpilih:** Stack   
+   * **Alasan:** Stack cocok digunakan untuk fitur undo dan redo karna memiliki prinsip Last In First Out, yang artinya sesuatu yang dilakukan terakhir akan menjadi sesuatu yang dikeluarkan pertama. Contohnya kita lagi edit di canva langkah terakhir itu memisahkan elemen-elemen yang harusnya jadi satu, jadi ketika kita memencet tombol undo yang harusnya elemennya kepisah jadi balik lagi jadi satu karna membatalkan tindakan terakhir yaitu memisahkan elemen-elemen
+
+2. **Skenario 2 (Peta Navigasi Rute Perjalanan):**  
+   Sebuah aplikasi GPS membutuhkan cara untuk memodelkan lokasi-lokasi kota beserta jalan penghubungnya guna mencari rute tercepat.  
+   * **Struktur Data Terpilih:** Graph  
+   * **Alasan:** 
+
+3. **Skenario 3 (Sistem Login Pengguna Berbasis Username):**  
+   Sistem butuh mencari data akun dari jutaan *user* secara instan berdasarkan *Username* saat proses *login*.  
+   * **Struktur Data Terpilih:** ...  
+   * **Alasan:** ...
 
