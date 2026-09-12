@@ -67,5 +67,5 @@
 Antrian di mesin ATM
 ##### 2. Bagaimana cara kerja annalogi tersebut:
 
-#### 3. Mengapa analogi tersebut mencerminkan kelebihan dan kekurangan dari struktur data yang dipilih:
+##### 3. Mengapa analogi tersebut mencerminkan kelebihan dan kekurangan dari struktur data yang dipilih:
 
