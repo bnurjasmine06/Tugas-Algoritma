@@ -29,9 +29,13 @@ BAGIAN A RANCANGAN ALGORITMA DENGAN KARAKTERISTIK LENGKAP
 19.	Selesai
 
 **Karakteristik Algoritma:**    
-1. **Input:**
-2. **Output:**
-3. **Definiteness:**
-4. **Finiteness:**
-5. **Effectiveness:**     
+1. **Input:** Nomer rekening, nomer handphone yang terdaftar, data identitas yang dimasukkan, username, password, kode OTP, dan PIN mobile banking
+   
+2. **Output:** Akun mobile banking berhasil dibuat, data akun tersimpan denga naman di sistem bank, dan sistem menampilkan notifikasi “Pembuatan akun Anda telah berhasil. Jika terjadi kesalahan dalam proses sistem akan menampilkan pesan kesalahan dan meminta pengguna untuk melakukan perbaikan atau verifikasi kembali
+   
+3. **Definiteness:** Setiap Langkah dalam algoritma memiliki instruksi yang jelas dan kondisi validasi format dan pencocokan bernilai pasti (bener/salah) tanpa ada makna ganda
+  
+4. **Finiteness:** Memiliki titik akhir yang jelas dengan dua kemungkinan yang pertama setelah sitem berhasil membuat akun, menyimpan data akun dan menampilkan notifikasi “Pembuatan akun Anda telah berhasil. Yang kedua proses dapat berhenti apabila data atau proses yang dilakukan tidak memenuhi dan proses dihentikan oleh pengguna
+   
+5. **Effectiveness:** Langkahnya sangat berurutan mulai dari pengumpulan data hingga verifikasi dua langkah   
 
