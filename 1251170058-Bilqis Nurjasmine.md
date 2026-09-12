@@ -4,6 +4,7 @@
 **Kelas:** 3 B 
 
 ---
+
 ### BAGIAN A RANCANGAN ALGORITMA DENGAN KARAKTERISTIK LENGKAP
 
 #### CASE KELAS B (Pendaftaran & Otentikasi Pengguna Baru)
@@ -39,6 +40,8 @@
    
 5. **Effectiveness:** Langkahnya sangat berurutan mulai dari pengumpulan data hingga verifikasi dua langkah
 
+---
+
 ### BAGIAN B: ANALISIS PEMILIHAN STRUKTUR DATA
 1. **Skenario 1 (Fitur Undo / Redo):**  
    Sebuah aplikasi pengolah kata (*Text Editor*) membutuhkan fitur untuk membatalkan ketikan terakhir pengguna (*Undo*) dan mengembalikannya lagi (*Redo*).  
@@ -54,4 +57,15 @@
    Sistem butuh mencari data akun dari jutaan *user* secara instan berdasarkan *Username* saat proses *login*.  
    * **Struktur Data Terpilih:** Hash Table  
    * **Alasan:** Hash Table cocok digunakan untuk sistem login karena dapat mencari data pengguna menggunakan username dengan cepat. contoh mau login mobile banking trus masukin username dan password yang sudah dibuat. Sistem akan mencari username tersebut untuk menemukan data akun dan mencocokkan password yang dimasukkan. jadi sistem bisa mecari dengan cepat tanpa harus mengecek satu-satu
+
+---
+
+### BAGIAN C: EKSPLORASI ANALOGI MANDIRI
+#### Struktur data yang dipilih: Queue
+
+##### 1. Nama analogi kehidupan sehari-hari: 
+Antrian di mesin ATM
+##### 2. Bagaimana cara kerja annalogi tersebut:
+
+#### 3. Mengapa analogi tersebut mencerminkan kelebihan dan kekurangan dari struktur data yang dipilih:
 
