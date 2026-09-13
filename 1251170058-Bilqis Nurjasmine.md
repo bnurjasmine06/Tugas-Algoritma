@@ -7,7 +7,7 @@
 
 ## BAGIAN A RANCANGAN ALGORITMA DENGAN KARAKTERISTIK LENGKAP
 
-#### CASE KELAS B (Pendaftaran & Otentikasi Pengguna Baru)
+### CASE KELAS B (Pendaftaran & Otentikasi Pengguna Baru)
 > **Langkah-langkah (Instruksi Terstruktur):**
 1.	Mulai
 2.	Pengguna membuka aplikasi mobile banking dan menekan menu “Daftar” atau “Buat Akun”.
