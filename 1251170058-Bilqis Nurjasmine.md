@@ -61,11 +61,13 @@
 ---
 
 ### BAGIAN C: EKSPLORASI ANALOGI MANDIRI
-#### Struktur data yang dipilih: Queue
-
-##### 1. Nama analogi kehidupan sehari-hari: 
+* **Struktur data yang dipilih:** Queue
+* **Penjelasan:**
+  * **i. Nama analogi kehidupan sehari-hari:** 
 Antrian di mesin ATM
-##### 2. Bagaimana cara kerja annalogi tersebut:
-
-##### 3. Mengapa analogi tersebut mencerminkan kelebihan dan kekurangan dari struktur data yang dipilih:
-
+  * **ii. Bagaimana cara kerja analogi tersebut:**
+Queue cara kerja analoginya seperti orang-orang yang sedang menunggu giliran untuk menggunakan mesin ATM. Orang yang datang lebih dulu akan menggunakan ATM duluan, sedangkan orang yang datang setelahnya harus menunggu sampai orang yang datang duluan selesai menggunakan ATM.
+  * **iii. Mengapa analogi tersebut mencerminkan kelebihan dan kekurangan dari struktur data yang dipilih:**
+Analogi tersebut mencerminkan prinsip FIrst In First Out, yaitu orang yang datang lebih dulu akan mendapatkan giliran lebih dulu.
+    * Kelebihan Queue urutan orang jadi lebih teratur dan adil tidak bisa menyelak giliran orang lain
+    * Kekurangannya orang yang datang terakhir harus menunggu giliran sampai orang-orang sebelumnya selesai dahulu
