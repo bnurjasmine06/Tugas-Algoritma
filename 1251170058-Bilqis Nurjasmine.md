@@ -5,7 +5,7 @@
 
 ---
 
-### BAGIAN A RANCANGAN ALGORITMA DENGAN KARAKTERISTIK LENGKAP
+## BAGIAN A RANCANGAN ALGORITMA DENGAN KARAKTERISTIK LENGKAP
 
 #### CASE KELAS B (Pendaftaran & Otentikasi Pengguna Baru)
 > **Langkah-langkah (Instruksi Terstruktur):**
@@ -42,7 +42,7 @@
 
 ---
 
-### BAGIAN B: ANALISIS PEMILIHAN STRUKTUR DATA
+## BAGIAN B: ANALISIS PEMILIHAN STRUKTUR DATA
 1. **Skenario 1 (Fitur Undo / Redo):**  
    Sebuah aplikasi pengolah kata (*Text Editor*) membutuhkan fitur untuk membatalkan ketikan terakhir pengguna (*Undo*) dan mengembalikannya lagi (*Redo*).  
    * **Struktur Data Terpilih:** Stack   
@@ -60,7 +60,7 @@
 
 ---
 
-### BAGIAN C: EKSPLORASI ANALOGI MANDIRI
+## BAGIAN C: EKSPLORASI ANALOGI MANDIRI
 * **Struktur data yang dipilih:** Queue
 * **Penjelasan:**
   * **i. Nama analogi kehidupan sehari-hari:** 
